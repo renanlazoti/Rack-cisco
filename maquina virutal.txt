@@ -1,0 +1,1 @@
+quando nao estiver pingando no linux, va na rede, desative a rede cabeada e ative de novo, para ele obter o ip do router
