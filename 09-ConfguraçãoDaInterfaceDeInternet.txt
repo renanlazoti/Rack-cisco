@@ -42,3 +42,6 @@ ping 10.26.40.190	<-- servidor do SENAC
 ping 8.8.8.8		<-- servidor do Google
 
 !Testar a conexão com a Internet utilizando o Navegador
+
+Gigabitinternet 0/0 é sua rede local
+
