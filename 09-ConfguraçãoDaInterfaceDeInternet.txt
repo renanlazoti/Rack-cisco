@@ -44,4 +44,6 @@ ping 8.8.8.8		<-- servidor do Google
 !Testar a conexão com a Internet utilizando o Navegador
 
 Gigabitinternet 0/0 é sua rede local
+Gigabitinternet 0/1 é a rede de internet
+
 
